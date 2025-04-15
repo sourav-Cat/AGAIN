@@ -1,0 +1,27 @@
+header{
+    background-color: aqua;
+    height: 200%;
+    font-size: larger;
+    font-style: italic;
+    text-align: center;
+    color:brown;
+
+
+}
+p{
+font-size: 29px;
+font-weight: 100;
+font-weight: bolder;
+font-style:normal;
+}
+div{
+    color: black;
+    background-color: aquamarine;
+    margin: 10px;
+    border: 5px solid red;
+    background-image: url('IMG_8476.JPG');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+    
+}
