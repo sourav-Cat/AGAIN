@@ -1,60 +1,20 @@
-.header{
-    height: 500px;
-    background-color: aqua;
-    background-image: url('IMG_8476.JPG');
-    background-repeat: no-repeat;
-    background-size: cover;
-    /* background-size:500px ; */
-}
-
-*{
-    margin:10px;
-    color: rgb(33, 5, 30);
-    
-}
-img{
-    height:800px; width: 1050px;
-}
-.ns{
-color: aqua;
-}
-#ums{
-    color: blue;
+header{
     background-color: aquamarine;
-    height: 30px;
-    width: 3000px;
-    
-}
-h3{
-    color: blueviolet;
-}
- .dv{
+    text-align: center;
+    font-weight: bold;
     color: brown;
-    text-align:center;
-    text-decoration: solid;
-    text-rendering: inherit;
- }
- .Blog{
-color: black;
-background-color: aquamarine;
-/* border-top: 5px solid red; */
-/* border-right: 5px solid red; */
-border: 5px solid red;
-/* border-bottom:none; */
-border-radius: 15px;
-width: 300px;
-text-align: center;
-margin: 50px;
-padding: 300px 300px 4% 50px;
-/* text-decoration: overline;  */
-box-shadow: 20px 20px 20px 20px;
- }
- .incident{
-    color: blue;
-    background-color: orangered;
-    border: 4px solid black;
+    height: 100px;
+}
+div
+{
+    color: black;
+    background-color: brown;
+    height: 400px;
+    width: 500px;
     margin: 10px;
-    padding: 1px;
-    border-radius: 20px;
-    border-top: 3px;
- }
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+    border: 3px solid black;
+    border-radius: 39px;
+    padding: 10px;
+}
