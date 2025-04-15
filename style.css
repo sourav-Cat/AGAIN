@@ -15,6 +15,20 @@ div
     font-family: Arial, Helvetica, sans-serif;
     text-align:center;
     border: 3px solid black;
-    border-radius: 39px;
-    padding: 10px;
+    border-radius: 30px;
+    padding: 10px 20px 20px 20px ;
+
 }
+.ado{
+    padding: 30px;
+    margin: 20px;
+    border-radius: 30px;
+    border: 3px solid black;
+}
+.vdo{
+    padding: 30px;
+    margin: 20px;
+    border-radius: 30px;
+    border: 3px solid black;
+}
+
